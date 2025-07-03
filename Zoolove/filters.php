@@ -1,6 +1,4 @@
-
-
-<form action="/products.php" method="post">
+<form action="products.php" method="post">
 <div id="filters" class="p-3 my-2">
   <div class="row">
     <h4>

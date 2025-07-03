@@ -1,4 +1,3 @@
-
 function setSessionVariable(cart) {
   var formData = new FormData();
   formData.append('current_order', JSON.stringify(cart));
@@ -70,7 +69,7 @@ function clearCart() {
 function placeOrder() {
   const cart = sessionStorage.getItem('cart');
   var formData = new FormData();
-  formData.append('current_order', JSON.stringify(cart));
+  formData.append('current_order', cart);
   var xhttp = new XMLHttpRequest();
   xhttp.open("POST", "utils/make_order.php", false);
   xhttp.send(formData);

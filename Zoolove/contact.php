@@ -28,31 +28,31 @@ include "includes/nav.php";
                                         <div class="row">
                                             <div class="col-md-6">
                                                 <div class="form-group">
-                                                    <label class="label" for="name">Nume</label>
+                                                    <label class="label" for="name">NUME</label>
                                                     <input type="text" class="form-control" name="name" id="name" placeholder="Nume">
                                                 </div>
                                             </div>
                                             <div class="col-md-6">
                                                 <div class="form-group">
-                                                    <label class="label" for="email">Email</label>
+                                                    <label class="label" for="email">EMAIL</label>
                                                     <input type="email" class="form-control" name="email" id="email" placeholder="Email">
                                                 </div>
                                             </div>
                                             <div class="col-md-12">
                                                 <div class="form-group">
-                                                    <label class="label" for="subject">Subiect</label>
+                                                    <label class="label" for="subject">SUBIECT</label>
                                                     <input type="text" class="form-control" name="subject" id="subject" placeholder="Subiect">
                                                 </div>
                                             </div>
                                             <div class="col-md-12">
                                                 <div class="form-group">
-                                                    <label class="label" for="#">Mesaj</label>
+                                                    <label class="label" for="#">MESAJ</label>
                                                     <textarea name="message" class="form-control" id="message" cols="30" rows="4" placeholder="Mesaj"></textarea>
                                                 </div>
                                             </div>
                                             <div class="col-md-12">
                                                 <div class="form-group">
-                                                    <input type="submit" value="Trimite Mesaj" class="btn fls-btn fls-add-chart-btn">
+                                                    <input type="submit" value="TRIMITE MESAJ" class="btn fls-btn fls-add-chart-btn">
                                                     <div class="submitting"></div>
                                                 </div>
                                             </div>

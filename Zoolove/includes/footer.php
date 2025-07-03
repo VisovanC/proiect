@@ -24,7 +24,7 @@
         <div class="row">
             <div class="col-12 text-center">
                 <p class="mb-0">&copy; 2024 ZooLove. Toate drepturile rezervate. 
-                    <a href="admin/admin-secret.php" class="text-white-50" style="text-decoration: none;">●</a>
+                    <a href="admin/admin_secret.php" class="text-white-50" style="text-decoration: none;">●</a>
                 </p>
             </div>
         </div>

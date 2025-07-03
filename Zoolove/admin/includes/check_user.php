@@ -1,7 +1,7 @@
 <?php
 session_start();
 if (!isset($_SESSION['admin_id'])) {
-    header('Location: form_login.php');
+    header('Location: admin_secret.php');
     exit;
 }
 ?>
